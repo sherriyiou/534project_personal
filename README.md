@@ -3,7 +3,7 @@
 
 ### 2023.1.19
 * Discussed about the whole process of project.
-* Finished the half part of the project proposal: https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/a10719c0923db939efbbea2844e0fff8c4ad859a
+* Finished the half part of the project proposal: https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/f154beb304c5dc9ba6d151ea65cf5a8669a75bda
 * Described the specific outcomes and target users of wrapper API
 
 ### 2023.1.20
