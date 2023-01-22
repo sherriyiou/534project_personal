@@ -9,5 +9,5 @@
 ### 2023.1.20
 * Learned how to implement a simple crawler.
 
-###2023.1.21
+### 2023.1.21
 * Identified the API data that need to be used in terms of tokenization, morphological analysis, morphological analysis, language identification and so on.
