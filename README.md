@@ -16,4 +16,5 @@
 * Wrote function of calculating frequency: https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/775392339d510de94299d9616da2c8cbd7e08cc2
 
 ### 2023.1.23
-* Wrote a function to check the length of the input text for legality and cut the text to make it conform to the rules since the API input has a character length limit:https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/f49c33e12fdd4fcaf62e2ab0810192c52dbe554f
+* Wrote a function to check the length of the input text for legality and cut the text to make it conform to the rules since the API input has a character length limit:
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/f49c33e12fdd4fcaf62e2ab0810192c52dbe554f
