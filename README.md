@@ -18,3 +18,8 @@
 ### 2023.1.23
 * Wrote a function to check the length of the input text for legality and cut the text to make it conform to the rules since the API input has a character length limit:
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/f49c33e12fdd4fcaf62e2ab0810192c52dbe554f
+
+### 2023.1.24
+* Wrote test file for 4 functions.
+* Debug and update new font file.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/6ce6e2f5d7ecb6c9ec73e41a22d1d030f5cb60b3
