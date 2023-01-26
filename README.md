@@ -25,4 +25,5 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/f49c33e12fdd4fcaf62e2
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/6ce6e2f5d7ecb6c9ec73e41a22d1d030f5cb60b3
 
 ### 2023.1.25
-* Coded in using document embedding calculation part for text similarity function:https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/6ad7502826df3a9796371e3148a0240f36eced77
+* Coded in using document embedding calculation part for text similarity function:
+ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/6ad7502826df3a9796371e3148a0240f36eced77
