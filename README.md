@@ -31,3 +31,6 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/6ce6e2f5d7ecb6c9ec73e
 ### 2023.1.26
 * Wrote tests for text similarity function and debug.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/5af11de755ce369a7cc3484b4f5c36c198251f31
+
+### 2023.1.27
+* Learned how to access AWS through the command line.
