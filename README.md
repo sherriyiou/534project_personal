@@ -36,7 +36,7 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/5af11de755ce369a7cc34
 * Learned how to access AWS through the command line.
 
 ### 2023.1.28
-* Learned how to access AWS using Python API
+* Learned how to access AWS using Python API.
 
 ### 2023.1.29
 * Added function to get posTags of text:
