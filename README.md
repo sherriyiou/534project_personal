@@ -45,3 +45,7 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/9e228b9a16b9341d2d964
 ### 2023.1.30
 * Tested the textRank function and made some modifications.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/f69c20542b2e26b4e97d1cd6b1382970a752dc71
+
+###2023.1.31
+* Added function of getting classification.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/24ff56d810d555cba4749a8b874191440883e4c1
