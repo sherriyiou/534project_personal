@@ -42,6 +42,6 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/5af11de755ce369a7cc34
 * Added function to get posTags of text:
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/9e228b9a16b9341d2d964f8876cb3c1615cfb9a3
 
-###2023.1.30
+### 2023.1.30
 * Tested the textRank function and made some modifications.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/f69c20542b2e26b4e97d1cd6b1382970a752dc71
