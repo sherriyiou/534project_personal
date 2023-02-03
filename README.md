@@ -53,3 +53,7 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/24ff56d810d555cba4749
 ### 2023.2.1
 * Tested the relation visualization and classification functions.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/f7d3300f34faaa8f6c5fec9c32639fe6cbaa0541
+
+### 2023.2.2
+* Wrote test file.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/1700a0ea321a35ecec6fb4266f87f29b0c10be58
