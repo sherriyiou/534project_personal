@@ -59,10 +59,18 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/f7d3300f34faaa8f6c5fe
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/1700a0ea321a35ecec6fb4266f87f29b0c10be58
 
 ### 2023.2.3
-* Learnt
+* Learnt relevant algorithm.
 
 ### 2023.2.4
 * Added unittest for the package.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/4998b88273dc8613d2e032e587d88b3139ffa5cb
 * Added inside comments.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/cf38ca45ce2ab392800a5752b81ce5adf41e0fa9
+
+### 2023.2.5
+* Added code of conduct.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/19c1874dc55e21a6404a7bb490e49020fe58d72c
+* Added the content in readme file(tutorial)
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/d80488b343051010101bf73cd3273c273f583df0
+* Got the continuous integration passing stamp.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/c6f708fda5d52d671c7a88dc16b6fde68b63c626
