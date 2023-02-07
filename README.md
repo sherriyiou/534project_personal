@@ -74,3 +74,10 @@ https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/19c1874dc55e21a6404a7
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/d80488b343051010101bf73cd3273c273f583df0
 * Got the continuous integration passing stamp.
 https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/c6f708fda5d52d671c7a88dc16b6fde68b63c626
+
+### 2023.2.6
+* Added contruibuting.md file.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/0a01317795b98cfa3f6da941bcf0b70808338100
+* Added pypi stamp.
+https://github.com/KingOfOrikid/proj_NLPbrl_DATA534/commit/9dee0b6c509ef1148c42c30d5672f8d31c59db44
+
